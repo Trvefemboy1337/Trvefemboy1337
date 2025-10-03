@@ -18,8 +18,8 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)&nbsp;
 ![Linux Mint](https://img.shields.io/badge/-Linux%20Mint-87CF3F?style=flat-square&logo=linuxmint&logoColor=white)&nbsp;
 ![Neovim](https://img.shields.io/badge/-Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)&nbsp;
-![DuckDuckGo](https://img.shields.io/badge/DuckDuckGo-Search%20Engine-%2300BFFF?style=for-the-badge&logo=duckduckgo&logoColor=white)&nbsp;
-![Fedora](https://img.shields.io/badge/Fedora-Linux-%234F81C1?style=for-the-badge&logo=fedora&logoColor=white)&nbsp;
+![DuckDuckGo](https://img.shields.io/badge/DuckDuckGo?style=for-the-badge&logo=duckduckgo&logoColor=white)&nbsp;
+![Fedora Linux](https://img.shields.io/badge/Fedora-Linux-%234F81C1?style=for-the-badge&logo=fedora&logoColor=white)&nbsp;
 
 ### I am learning
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)&nbsp;
