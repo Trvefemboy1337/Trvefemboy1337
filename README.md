@@ -18,13 +18,15 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)&nbsp;
 ![Linux Mint](https://img.shields.io/badge/-Linux%20Mint-87CF3F?style=flat-square&logo=linuxmint&logoColor=white)&nbsp;
 ![Neovim](https://img.shields.io/badge/-Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)&nbsp;
+![DuckDuckGo](https://img.shields.io/badge/DuckDuckGo-Search%20Engine-%2300BFFF?style=for-the-badge&logo=duckduckgo&logoColor=white)&nbsp;
+![Fedora](https://img.shields.io/badge/Fedora-Linux-%234F81C1?style=for-the-badge&logo=fedora&logoColor=white)&nbsp;
 
 ### I am learning
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)&nbsp;
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)&nbsp;
 ![ASM](https://img.shields.io/badge/-ASM-6E4C3A?style=flat-square&logo=assemblyscript&logoColor=white)&nbsp;
-
+![Kotlin](https://img.shields.io/badge/Kotlin-Programming%20Language-%7F52B4?style=for-the-badge&logo=kotlin&logoColor=white)&nbsp;
 ### Contact me at
 <a href="mailto:trvefemboykvlt@proton.me"><img src="https://img.shields.io/badge/-ProtonMail-5C67F2?style=flat-square&logo=protonmail&logoColor=white" alt="ProtonMail" /></a> &nbsp;
 <a href="https://t.me/Trvefemboy1337"><img src="https://img.shields.io/badge/-Telegram-0088CC?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a> &nbsp;
