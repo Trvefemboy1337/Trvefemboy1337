@@ -30,4 +30,5 @@
 
 ### Contact me at
 [![ProtonMail](https://img.shields.io/badge/-ProtonMail-6D4AFF?style=flat-square&logo=protonmail&logoColor=white)](mailto:trvefemboykvlt@proton.me)&nbsp;
-[![Telegram](https://img.shields.io/badge/-Telegram-0088CC?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Trvefemboy1337)&nbsp;
+[![Telegram](https://img.shields.io/badge/-Telegram-0088CC?style=flat-square&logo=telegram&logoColor=white)](https://t.me/trvefemboy1337)&nbsp;
+![Signal](https://img.shields.io/badge/-Signal-3EB489?style=flat-square&logo=signal&logoColor=white) username at signal: trvefemboy.66
