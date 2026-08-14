@@ -12,22 +12,18 @@
 ### My main tools
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)&nbsp;
 ![Vim](https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=vim&logoColor=white)&nbsp;
-![VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white)&nbsp;
 ![GCC](https://img.shields.io/badge/-GCC-5C9F2B?style=flat-square&logo=gcc&logoColor=white)&nbsp;
 ![Zsh](https://img.shields.io/badge/-Zsh-4E8C2A?style=flat-square&logo=zsh&logoColor=white)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)&nbsp;
-![Linux Mint](https://img.shields.io/badge/-Linux%20Mint-87CF3E?style=flat-square&logo=linux-mint&logoColor=white)&nbsp;
 ![Neovim](https://img.shields.io/badge/-Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)&nbsp;
 ![DuckDuckGo](https://img.shields.io/badge/-DuckDuckGo-DE5833?style=flat-square&logo=duckduckgo&logoColor=white)&nbsp;
-![Fedora](https://img.shields.io/badge/-Fedora-294172?style=flat-square&logo=fedora&logoColor=white)&nbsp;
 
 ### I am learning
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)&nbsp;
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)&nbsp;
 ![Assembly](https://img.shields.io/badge/-Assembly-6E4C3A?style=flat-square&logo=assemblyscript&logoColor=white)&nbsp;
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52B4?style=flat-square&logo=kotlin&logoColor=white)&nbsp;
-
+![Rust](https://shields.io/badge/-Rust-3776AB?style=flat-square&logo=rust&logoColor=white)&nbsp;
 ### Contact me at
 [![ProtonMail](https://img.shields.io/badge/-ProtonMail-6D4AFF?style=flat-square&logo=protonmail&logoColor=white)](mailto:trvefemboykvlt@proton.me)&nbsp;
 [![Telegram](https://img.shields.io/badge/-Telegram-0088CC?style=flat-square&logo=telegram&logoColor=white)](https://t.me/trvefemboy1337)&nbsp;
